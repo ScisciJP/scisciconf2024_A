@@ -29,7 +29,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    if: github.actor == 'TM82' # Only allow the user to run this workflow
+    if: github.actor == 'psmuler' # Only allow the user to run this workflow
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -54,7 +54,7 @@ jobs:
 
   # Deployment job
   deploy:
-    if: github.actor == 'TM82' # Only allow the user to run this workflow
+    if: github.actor == 'psmuler' # Only allow the user to run this workflow
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
