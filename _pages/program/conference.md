@@ -9,6 +9,8 @@ sidebar:
 # toc_icon: "cog"
 ---
 
+**以下は2024年春開催の詳細となります。**
+
 <style>
 p.title { font-weight: bold; font-size: 120%; }
 </style>

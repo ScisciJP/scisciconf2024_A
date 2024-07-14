@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-excerpt: "第1回Science of science研究会"
+excerpt: "第2回Science of science研究会"
 layout: single
 permalink: /faq/
 sidebar: false

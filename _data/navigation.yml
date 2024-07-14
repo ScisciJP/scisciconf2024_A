@@ -2,24 +2,24 @@
 main:
   - title: "Science of scienceとは"
     url: /about/
-  - title: "プログラム"
-    url: /program/
+  # - title: "プログラム"
+  #   url: /program/
   - title: "発表募集/参加申込"
     url: /calls/
-  - title: "会場/運営委員"
-    url: /venue/
+  # - title: "会場/運営委員"
+    # url: /venue/
   # - title: "スポンサー"
   #   url: /sponsors/
   # - title: "FAQ"
   #   url: /faq/
   
 
-program:
-  - title: "プログラム"
-    children:
-      - title: "全体プログラム"
-        url: /program/
-      - title: "チュートリアル"
-        url: /program/tutorials/
-      - title: "研究会"
-        url: /program/conference/
+# program:
+#   - title: "プログラム"
+#     children:
+#       - title: "全体プログラム"
+#         url: /program/
+#       - title: "チュートリアル"
+#         url: /program/tutorials/
+#       - title: "研究会"
+#         url: /program/conference/
