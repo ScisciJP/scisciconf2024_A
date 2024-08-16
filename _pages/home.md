@@ -22,7 +22,7 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 
 詳しくは[こちら]({{ site.baseurl }}/about)をご覧ください。
 
-参加申し込みは[こちら]() から
+参加申し込みは[こちら](https://forms.gle/71jZTCTJvwrnJjGs5) から
 {: .text-center .notice--info}
 
 
