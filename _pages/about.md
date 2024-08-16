@@ -32,8 +32,17 @@ Science of scienceの対象は、論文数・引用・共著などの伝統的�
 また、政策科学的な側面を持っていることもScience of scienceの特徴です。論文に限らず研究に関するあらゆる情報が活用され、科学を加速させるツールや政策を開発しています。
 たとえば、研究の商業化[10]や政策利活用[11]に向けた問題解決を目指す研究が代表的です。
 特に近年は、オープンで大規模なデータセットの開発が進んでおり[12,13,14]、さまざまなアウトプットにつながっています。
+​
+## Science of science研究会とは？
 
+Science of science研究会は、本領域の注目度の高まりを受けて、日本においてScience of scienceに関わる研究者同士の卓越した研究コミュニティを作ることを目的として、有志の研究者によって設立されました。
+主要な活動として、年次研究会の開催、Science of scienceセミナーの運営を行い、参加する研究者を中心に優れた研究成果を生み出すことへの貢献を第一の目標としています。
+本研究会ではこれらの活動を通じて、トップジャーナルに挑戦できる研究成果の実現、実社会に直結する重要な課題解決に資する議論の場の提供、優秀な研究者の育成・発掘を行い、日本のScience of science研究コミュニティの発展に貢献します。
 
+また研究者のみに限らず、実務家や科学技術政策関係者など、Science of scienceが対象とする領域で実問題に取り組むあらゆる方の参加を歓迎します。
+本研究会が実課題に対応した研究を行う議論の場を提供することで、研究者と実務者や政策関係者との相互の関係を深め、研究者のみならず、本研究領域に関心のある参加者の活動に資する知見を生み出すことを目標とします。
+
+## Reference
 [1] [Fortunato, S. et al. (2018). Science of science. Science, 359(6379), eaao0185.](https://www.science.org/doi/full/10.1126/science.aao0185){:target="_blank"}
 
 [2] [Wang, D. & Barabási, A. L. (2021). The science of science. Cambridge University Press.](https://www.dashunwang.com/book/the-science-of-science){:target="_blank"}
@@ -62,12 +71,3 @@ Science of scienceの対象は、論文数・引用・共著などの伝統的�
 
 [14] [Lin, Z. et al. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10(1), 315.](https://www.nature.com/articles/s41597-023-02198-9){:target="_blank"}
 
-​
-## Science of science研究会とは？
-
-Science of science研究会は、本領域の注目度の高まりを受けて、日本においてScience of scienceに関わる研究者同士の卓越した研究コミュニティを作ることを目的として、有志の研究者によって設立されました。
-主要な活動として、年次研究会の開催、Science of scienceセミナーの運営を行い、参加する研究者を中心に優れた研究成果を生み出すことへの貢献を第一の目標としています。
-本研究会ではこれらの活動を通じて、トップジャーナルに挑戦できる研究成果の実現、実社会に直結する重要な課題解決に資する議論の場の提供、優秀な研究者の育成・発掘を行い、日本のScience of science研究コミュニティの発展に貢献します。
-
-また研究者のみに限らず、実務家や科学技術政策関係者など、Science of scienceが対象とする領域で実問題に取り組むあらゆる方の参加を歓迎します。
-本研究会が実課題に対応した研究を行う議論の場を提供することで、研究者と実務者や政策関係者との相互の関係を深め、研究者のみならず、本研究領域に関心のある参加者の活動に資する知見を生み出すことを目標とします。

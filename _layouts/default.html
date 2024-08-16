@@ -8,35 +8,43 @@
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<html lang="{{ site.locale | slice: 0,2 | default: " en" }}" class="no-js">
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-    {% include_cached browser-upgrade.html %}
-    {% include_cached masthead.html %}
+<body
+  class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-    <div class="initial-content">
-      {{ content }}
-    </div>
+  {% include_cached browser-upgrade.html %}
+  {% assign today = 'now' | date: '%Y-%m-%d' %}
+  {% assign eventdate = site.eventdate | date: '%Y-%m-%d' %}
 
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include_cached search/search_form.html %}
-      </div>
-    {% endif %}
+  {% if today > eventdate %}
+  {% include_cached outdated.html %}
+  {% endif %}
+  {% include_cached masthead.html %}
+  <div class="initial-content">
+    {{ content }}
+  </div>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include_cached footer.html %}
-      </footer>
-    </div>
+  {% if site.search == true %}
+  <div class="search-content">
+    {% include_cached search/search_form.html %}
+  </div>
+  {% endif %}
 
-    {% include scripts.html %}
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include_cached footer.html %}
+    </footer>
+  </div>
 
-  </body>
+  {% include scripts.html %}
+
+</body>
+
 </html>
