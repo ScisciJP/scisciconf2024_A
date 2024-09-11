@@ -3,7 +3,7 @@
 本リポジトリは、Science of science研究会の公式ウェブサイト用リポジトリです。
 本コードは、[ACL 2023](https://github.com/acl-org/acl-2023)からフォークしておりますので、編集の詳細につきましてはフォーク元のREADMEをご覧ください。
 
-- Webpage: https://sciscijp.github.io/scisciconfJP2024/
+- Webpage: https://sciscijp.github.io/scisciconfJP2024_A/
 
 ## How to contribute
 
@@ -13,7 +13,30 @@
 git clone git@github.com:ScisciJP/scisciconfJP2024.git
 ```
 
+### 2. Build with Jekyll
+Install bundler:
+```
+sudo gem install bundler.
+```
+
+Make sure you have Ruby and Bundler versions > 2.4.
+
+Clone this repository. Note that this repository uses submodules so to properly check out the submodule code, run `git submodule init` and `git submodule update` after you clone the repository. You will need the submodule to generate the schedule for the website.
+
+Run the gems needed by this repository: 
+```
+sudo bundle install.
+```
+Note: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then `run bundle install` again.
+
+
+Start the jekyll server by running 
+```
+bundle exec jekyll serve
+```
+
 ### 2. Build with docker
+
 
 ```
 cd scisciconfJP2024
