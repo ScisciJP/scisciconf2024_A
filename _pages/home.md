@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/tokyo/istock_tokyo.jpg"
   caption: '<a href="https://www.istockphoto.com/jp/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/human-arterial-and-venous-circulatory-system-medically-accurate-animation-of-vains-gm1961943779-557884011" target="_blank">Photo @ iStock</a>'
-excerpt: "東京大学<br>Sep, 25 2024"
+excerpt: "@東京大学 工学部3号館 <br>Sep, 25 2024"
 ---
 
 
@@ -18,7 +18,7 @@ Through these activities, the association aims to achieve research results that 
 
 Science of science研究会は、本領域の注目度の高まりを受けて、日本を含むアジア諸国においてScience of scienceに関わる研究者同士の卓越した研究コミュニティを作ることを目的として、有志の研究者によって設立されました。
 主要な活動として、年次研究会の開催、Science of scienceセミナーの運営を行い、参加する研究者を中心に優れた研究成果を生み出すことへの貢献を第一の目標としています。
-本研究会ではこれらの活動を通じて、トップジャーナルに挑戦できる研究成果の実現、実社会に直結する重要な課題解決に資する議論の場の提供、優秀な研究者の育成・発掘を行い、日本のScience of science研究コミュニティの発展に貢献します。
+本研究会ではこれらの活動を通じて、トップジャーナルに挑戦できる研究成果の実現、実社会に直結する重要な課題解決に資する議論の場の提供、優秀な研究者の育成・発掘を行い、世界のScience of science研究コミュニティの発展に貢献します。
 
 詳しくは[こちら]({{ site.baseurl }}/about)をご覧ください。
 
@@ -29,13 +29,14 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 ## Important Dates 重要日程
 
 <style>
-.dates-table { font-size: .8em; }
+.dates-table { font-size: 1.1em; }
 .dates-table tr td:nth-child(1) { width: 10em; }
 .dates-table del { color: #888; }
 </style>
 
-開催：9/25 (水) 14:00 ~ 17:00
-
+|申し込み締め切り | 9/20 (金) 23:59
+|開催|9/25 (水) 14:00 ~ 17:00
+{: .dates-table}
 
 
 ## Venue 会場
@@ -47,7 +48,35 @@ Science of science研究会(秋) (SciSciConX) は、東京大学 工学部3号�
 </div>
 
 ## Agenda 開催内容
-Coming soon.
+<!-- それぞれ一旦質疑含めて20minで想定。14:00 ~ 16:30
+以上、講演 6人 x 20min = 2h -->
+
+
+<style>
+.agenda-table { font-size: .8em; table-layout: fixed; }
+/* .agenda-table tr td:nth-child(1) {  width: 10em; } */
+.agenda-table tr td:nth-child(2) { font-weight: bold; width: 30em; }
+.agenda-table tr td:nth-child(3) { width: 12em; }
+</style>
+
+| Session 1 | 
+|:-----:|:-----:|:--------------------|
+| 14:00 ~ 14:20 | scisciとは何か       | 浅谷 公威 (東京大学)
+| 14:20 ~ 14:40 | ICSSI参加報告        | 三浦 千哲 (東京大学)
+| 14:40 ~ 15:00 | ファンディングの実務    | 白川 のぶゆき (新潟大学)
+| 15:00 ~ 15:30 | Networking          | 
+| 15:30 ~ 15:50 | HongKong University | 槍目 まさる (香港大学)
+| 15:50 ~ 16:10 | 韓国のscisciの特徴 政府とscisciコミュニティの関わり | Seokkyon Woo (韓国)
+| 16:10 ~ 16:30 | Political Science と Bibliometrics| Shao Li (中国)
+{: .agenda-table}
+
+| Session 2 |
+|:-----:|:-----:|:--------------------|
+| 16:30 ~ 17:00 | オープンディスカッション       | 参加者
+{: .agenda-table}
+
+会後に懇親会を予定しております。
+
 
 
 ## News お知らせ
@@ -57,6 +86,7 @@ Coming soon.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2024-08-19 | 開催内容を追記しました。
 | 2024-08-17 | 2024年秋の研究会の参加募集を開始しました。
 | 2024-07-07 | 2024年秋の研究会の詳細ページを公開しました。
 {: .news-table}
@@ -75,31 +105,10 @@ science of science 研究会のスポンサー募集は、春開催分(SciSciCon
 
 
 ## Programme Committee プログラム運営委員
+{% include committee-member.html %}
 
-{% include committee-member.html
-   name="浅谷 公威"
-   picture="/assets/images/committee/kimitaka_asatani.jpg"
-   site="https://researchmap.jp/kimitaka_asatani"
-   institution="東京大学"
-%}
 
-{% include committee-member.html
-   name="吉田 光男"
-   picture="/assets/images/committee/mitsuo_yoshida.jpg"
-   site="https://www.gssm.otsuka.tsukuba.ac.jp/~mitsuo/"
-   institution="筑波大学"
-%}
 
-{% include committee-member.html
-   name="松井 暉"
-   picture="/assets/images/committee/akira_matsui.jpeg"
-   site="https://er-web.ynu.ac.jp/html/MATSUI_Akira/ja.html"
-   institution="横浜国立大学"
-%}
 
-{% include committee-member.html
-   name="三浦 千哲"
-   picture="/assets/images/committee/chiaki_miura.jpg"
-   site="https://twitter.com/muler314"
-   institution="東京大学"
-%}
+
+
