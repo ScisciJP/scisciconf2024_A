@@ -48,10 +48,6 @@ Science of science研究会(秋) (SciSciConX) は、東京大学 工学部3号�
 </div>
 
 ## Agenda 開催内容
-<!-- それぞれ一旦質疑含めて20minで想定。14:00 ~ 16:30
-以上、講演 6人 x 20min = 2h -->
-
-
 <style>
 .agenda-table { font-size: .8em; table-layout: fixed; }
 /* .agenda-table tr td:nth-child(1) {  width: 10em; } */
@@ -59,22 +55,20 @@ Science of science研究会(秋) (SciSciConX) は、東京大学 工学部3号�
 .agenda-table tr td:nth-child(3) { width: 12em; }
 </style>
 
-| Session 1 | 
-|:-----:|:-----:|:--------------------|
-| 14:00 ~ 14:20 | scisciとは何か       | 浅谷 公威 (東京大学)
-| 14:20 ~ 14:40 | ICSSI参加報告        | 三浦 千哲 (東京大学)
-| 14:40 ~ 15:00 | ファンディングの実務    | 白川 のぶゆき (新潟大学)
-| 15:00 ~ 15:30 | Networking          | 
-| 15:30 ~ 15:50 | HongKong University | 槍目 まさる (香港大学)
-| 15:50 ~ 16:10 | 韓国のscisciの特徴 政府とscisciコミュニティの関わり | Seokkyon Woo (韓国)
-| 16:10 ~ 16:30 | Political Science と Bibliometrics| Shao Li (中国)
+|予定時刻<br>Schedule|題目<br>Title| 講演者<br>Speaker | 所属<br>Affiliation |
+|:-----:|:-----:|:--------------------|:--------------------|
+|14:00~14:25| Science of Science とは何か <br> The Horizon of Science of Science|浅谷 公威 Kimitaka Asatani |東京大学 <br> UTokyo
+|14:25~14:40| SciSci分野の国際学会ICSSIについて <br> International Conference on Science of Science and Innovations Participants Report | 東出 紀之 <br> Noly Higashide| 東京大学 <br> Utokyo
+|14:40~15:05| 研究事例「科学におけるジェンダー不平等の減少は支援職の増加によって説明される」 <br> Increasing Supporting Careers Explains the Reduction in Gender Inequalities in Science|우석균 <br> Seokkyon Woo|韓国科学技術院 <br> KAIST
+|15:05~15:30| オープンディスカッション <br> Networking & Open Discussion||
+|15:30~15:55| 米国における科学技術イノベーション政策 <br> Policymaking Process for Science and Technology Innovation |白川 展之 <br> Nobuyuki Shirakawa|新潟大学 <br> Niigata Univ.
+|15:55~16:20| 政治学におけるSciSci <br>The Discoursive Power of Bibliometrics in Politics|邵立 <br> Shao Li|浙江大学 <br> Zhejiang University
+|16:20~16:35| 科学指標のつくり方 <br> Scientometrics Summer School Participants Report | 三浦 千哲 <br> Chucky Miura |東京大学 <br> UTokyo
+|16:35~17:00| 講演調整中 ||
 {: .agenda-table}
+* 講演題目は予告なく変更になる場合があります。 The talk titles are subject to change.
 
-| Session 2 |
-|:-----:|:-----:|:--------------------|
-| 16:30 ~ 17:00 | オープンディスカッション       | 参加者
-{: .agenda-table}
-
+<!-- |16:35~17:00| WIP |槍目 まさる <br> Masaru Yarime|香港大学 <br> HKU -->
 会後に懇親会を予定しております。
 
 
@@ -86,6 +80,7 @@ Science of science研究会(秋) (SciSciConX) は、東京大学 工学部3号�
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2024-09-21 | 会議の内容詳細を追記しました。
 | 2024-08-19 | 開催内容を追記しました。
 | 2024-08-17 | 2024年秋の研究会の参加募集を開始しました。
 | 2024-07-07 | 2024年秋の研究会の詳細ページを公開しました。
@@ -101,7 +96,7 @@ Zoomを用いたハイブリッドの会を予定しております。
 ## Sponsors スポンサー
 science of science 研究会のスポンサー募集は、春開催分(SciSciCon)のみ募集しております。
 
-春開催のスポンサーにご関心をお持ちの方はぜひ[当会連絡先](sciscijp@googlegroups.com)よりご連絡ください。
+春開催のスポンサーにご関心をお持ちの方はぜひ[当会連絡先](mailto:sciscijp@googlegroups.com)よりご連絡ください。
 
 
 ## Programme Committee プログラム運営委員
