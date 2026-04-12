@@ -1,6 +1,6 @@
-# Science of science研究会 2024 オフィシャルウェブサイト
+# 第2回Science of science研究会 2024秋 オフィシャルウェブサイト
 
-本リポジトリは、Science of science研究会の公式ウェブサイト用リポジトリです。
+本リポジトリは、第2回Science of science研究会の公式ウェブサイト用リポジトリです。
 本コードは、[ACL 2023](https://github.com/acl-org/acl-2023)からフォークしておりますので、編集の詳細につきましてはフォーク元のREADMEをご覧ください。
 
 - Webpage: https://sciscijp.github.io/scisciconfJP2024_A/
@@ -39,12 +39,12 @@ bundle exec jekyll serve
 
 
 ```
-cd scisciconfJP2024
-docker build -t scisciconfjp2024/website .
-docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll scisciconfjp2024/website
+cd scisciconfJP2024_A
+docker build -t scisciconfjp2024_a/website .
+docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll scisciconfjp2024_a/website
 ```
 
--> http://0.0.0.0:4000/scisciconfJP2024/ からアクセスできます。
+-> http://0.0.0.0:4000/scisciconfjp2024_a/ からアクセスできます。
 
 if you fail with the following "failed to authorize" error, remember you should login to docker first.
 ```

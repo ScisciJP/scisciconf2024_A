@@ -9,22 +9,15 @@ excerpt: "@東京大学 工学部3号館 <br>Sep, 25 2024"
 ---
 
 
-## Science of science研究会
+# 第2回Science of science研究会（ScisciConX）
 <!-- The Science of Science Research Association was established by a group of volunteer researchers in response to the growing attention in this field, with the aim of creating an outstanding research community among researchers involved in Science of Science in Asian countries, including Japan.
 
 The main activities include holding annual research meetings and organizing Science of Science seminars, with the primary goal of contributing to the production of excellent research outcomes centered around the participating researchers.
 
 Through these activities, the association aims to achieve research results that can challenge top journals, provide a platform for discussions that contribute to solving important issues directly connected to real society, and foster and discover talented researchers, thereby contributing to the development of Japan's Science of Science research community. -->
 
-Science of science研究会は、本領域の注目度の高まりを受けて、日本を含むアジア諸国においてScience of scienceに関わる研究者同士の卓越した研究コミュニティを作ることを目的として、有志の研究者によって設立されました。
-主要な活動として、年次研究会の開催、Science of scienceセミナーの運営を行い、参加する研究者を中心に優れた研究成果を生み出すことへの貢献を第一の目標としています。
-本研究会ではこれらの活動を通じて、トップジャーナルに挑戦できる研究成果の実現、実社会に直結する重要な課題解決に資する議論の場の提供、優秀な研究者の育成・発掘を行い、世界のScience of science研究コミュニティの発展に貢献します。
-
-詳しくは[こちら]({{ site.baseurl }}/about)をご覧ください。
-
-参加申し込みは[こちら](https://forms.gle/71jZTCTJvwrnJjGs5) から
-{: .text-center .notice--info}
-
+<!-- 参加申し込みは[こちら](https://forms.gle/71jZTCTJvwrnJjGs5) から
+{: .text-center .notice--info} -->
 
 ## Important Dates 重要日程
 
