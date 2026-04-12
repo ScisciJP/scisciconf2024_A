@@ -40,8 +40,8 @@ bundle exec jekyll serve
 
 ```
 cd scisciconfJP2024_A
-docker build -t scisciconfjp2024_a/website .
-docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll scisciconfjp2024_a/website
+docker build -t scisciconfjp2024_a .
+docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll scisciconfjp2024_a
 ```
 
 -> http://0.0.0.0:4000/scisciconfjp2024_a/ からアクセスできます。
